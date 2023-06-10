@@ -1,7 +1,7 @@
 ### Olá 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, NODE, REACT
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT
 
 - 📫 How to reach me: @brendondejesus or brendondejesus@hotmail.com
 
